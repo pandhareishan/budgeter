@@ -1,2 +1,2 @@
-# budgeter
-A tool to help me keep my finances in check
+# Budgeter
+A tool to help me keep my finances in check in 2026
